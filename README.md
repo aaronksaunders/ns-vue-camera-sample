@@ -1,6 +1,11 @@
 # NativeScript-Vue Application
 
-> A native application built with NativeScript-Vue
+> A native sample application using nativescript vue-cli template and camera plugin
+> using the 0.2.0 branch of the cli plugin
+> needed to import the ui/image module like this if you are following the plugin example
+```
+import { Image } from "tns-core-modules/ui/image";
+```
 
 ## Usage
 
