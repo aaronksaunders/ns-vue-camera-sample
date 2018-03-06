@@ -9,7 +9,8 @@
   "dependencies": {
     "nativescript-vue": "^1.3.0",
     "tns-core-modules": "~3.4.1",
-    "nativescript-camera": "^3.2.1"
+    "nativescript-camera": "^3.2.1",
+    "nativescript-nodeify": "^0.7.0"
   },
   "devDependencies": {
     "babel-traverse": "6.26.0",
